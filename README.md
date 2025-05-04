@@ -1,4 +1,4 @@
-markdown
+
 # 🧑‍💼 Employee Manager MERN Project
 
 A full-stack **Employee Management System** built using the **MERN stack (MongoDB, Express.js, React, Node.js)**. This application allows users to add, view, update, and delete employee records with a clean and responsive UI.
@@ -54,8 +54,9 @@ MONGO_URI=your_mongodb_connection_string
 ```
 
 ## 📸 Screenshots
+ ![Screenshot 2025-05-03 113625](https://github.com/user-attachments/assets/f477fa20-bce4-4340-8c2e-cfe1815598b6)
+![Screenshot 2025-05-03 113649](https://github.com/user-attachments/assets/83d45fed-f25f-4a1c-bb10-5a245cdb1f74)
 
-_Add UI screenshots here if needed._
 
 ## ✍️ Author
 
